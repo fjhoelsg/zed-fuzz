@@ -1,6 +1,6 @@
 # Fuzz Type Checker for Z
 
-zed-fuzz-docker is a simple Docker image that includes LaTeX and Fuzz. Please refer to [Spivey's repository](https://bitbucket.org/Spivey/fuzz) for more information about the fuzz type checker.
+zed-fuzz-docker is a simple Docker image that includes LaTeX and Fuzz. Please refer to [Spivey's repository](https://github.com/Spivoxity/fuzz) for more information about the fuzz type checker.
 
 ## Usage
 
